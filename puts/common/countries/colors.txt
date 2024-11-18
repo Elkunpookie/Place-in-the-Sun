@@ -1,0 +1,10 @@
+
+#Custom colours start here
+AUH = {
+	color = rgb { 194 190 178 }
+	color_ui = rgb { 194 190 178 }
+}
+ITA = {
+	color = rgb { 6 140 21 }
+	color_ui = rgb { 6 140 21 }
+}
