@@ -3,7 +3,7 @@ focus_tree = {
 	country = {
 		base = 0
 		modifier = {
-			add = 50000
+			add = 500
 			tag = ITA
 		}
 	}
