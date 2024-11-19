@@ -5,6 +5,7 @@ To Download:
 
 To Contribute:
 1. Create a fork
-2. Make your changes
-3. Then make a Pull Request
-4. We will review and approve your contribution
+2. You must relocate the .git folder to the puts folder if you use the desktop version
+3. Make your changes
+4. Then make a Pull Request
+5. We will review and approve your contribution
